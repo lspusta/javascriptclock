@@ -3,7 +3,7 @@ var noon = 12;
 var lunchtime = 12;
 var dinnerTime = 5;
 var partytime;
-var evening = 18;
+var evening = 15;
 
 // Getting it to show the current time on the page
 var showCurrentTime = function()

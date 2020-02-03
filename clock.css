@@ -55,7 +55,7 @@ body {
     border-radius: 10px;
     border:10px solid #222;
   }
-  #wakeUpTimeSelector, #lunchTimeSelector, #napTimeSelector {
+  #wakeUpTimeSelector, #lunchTimeSelector, #dinnerTimeSelector {
     padding: 10px 0;
   }
   #partyTimeButton {
@@ -70,7 +70,3 @@ body {
     margin-top: 20px;
   }
   
-  footer p {
-    text-transform: uppercase;
-    font-size: 12px;
-  }
